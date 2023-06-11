@@ -1,6 +1,6 @@
 <!-- TuanDz -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="TuanDz-official" />
+  <img src="svg/trungquandev.svg" width="1200" alt="DongCuti-official" />
 </a>
 
 <h2 align="center">🛠 𝑪𝒐̂𝒏𝒈 𝑵𝒈𝒉𝒆̣̂ 𝑽𝒂̀ 𝑪𝒐̂𝒏𝒈 𝑪𝒖̣ 🛠</h2>
@@ -52,11 +52,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="TuanDz">
+  <a href="#" title="Dongcuti">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanDeepTry-14072003&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="TuanDz">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TuanDeepTry-14072003&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="Dongcuti">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Minh Dong-14072003&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -65,23 +65,23 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/TuanDzs" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="TuanDz-blog" />
+  <a href="https://facebook.com/mdonq.06" target="blank">
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="DongCuti-blog" />
   </a>
-  <a href="https://facebook.com/TuanDzs" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TuanDz-facebook" />
+  <a href="https://facebook.com/mdonq.06" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="DongCuti-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCHR9A0Q8k7fXKwpjyXlJKbA" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="TuanDz-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="DongCuti-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-minh-tu%E1%BA%A5n-1851ba249/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="TuanDz-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="DongCuti-linkedin" />
   </a>
-  <a href="https://instagram.com/tuandz_1407" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="TuanDz-instagram" />
+  <a href="https://instagram.com/dongedit2006" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="DongCuti-instagram" />
   </a>
-  <a href="mailto:kenyrm2250@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="TuanDz-email" />
+  <a href="mailto: dongphamminh12@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="DongCuti-email" />
   </a>
 </div>
 
@@ -99,18 +99,18 @@
 <p>
   <strong>🔗 Link tải công cụ lấy APPSTATE: <a href="https://github.com/c3cbot/c3c-fbstate" target="_blank">C3C-FBSTATE</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/TuanDzs" target="_blank">https://www.facebook.com/TuanDzs</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/mdonq.06" target="_blank">https://www.facebook.com/mdonq.06</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:kenyrm2250@gmail.com" target="_top">kenyrm2250@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:dongphamminh12@gmail.com" target="_top">dongphamminh12@gmail.com</a></strong>
 </p>
-<a href="https://www.facebook.com/TuannDzz123" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="TuanDz-official" />
+<a href="https://www.facebook.com/mdonq.06" target="_blank">
+  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="DongCuti-official" />
 </a>
 
 <br>
 <h2 align="center">💌 𝑴𝒚 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆𝒔 𝑸𝒖𝒐𝒕𝒆𝒔 💌</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="tuandeeptry-official" />
+  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="dongcuti-official" />
 </a>
 
