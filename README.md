@@ -107,3 +107,14 @@
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="DongCuti-official" />
 </a>
 
+<br>
+
+<h2 align="center">💌 𝑴𝒚 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆𝒔 𝑸𝒖𝒐𝒕𝒆𝒔 💌</h2>
+
+<br>
+
+<a href="#" target="_blank">
+
+  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="dongcuti-official" />
+
+</a>
