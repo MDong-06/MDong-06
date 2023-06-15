@@ -104,7 +104,7 @@
   <strong>📧 Hoặc Email: <a href="mailto:dongphamminh12@gmail.com" target="_top">dongphamminh12@gmail.com</a></strong>
 </p>
 <a href="https://www.facebook.com/mdonq.06" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="DongCuti-official" />
+  <img src="images/taoanhdep_banner_dv_6955.jpg" width="1200" alt="DongCuti-official" />
 </a>
 
 <br>
